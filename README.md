@@ -58,14 +58,16 @@ This project analyzes Uber trip bookings for **June 2024** using Power BI. The d
 
 - Uber Monthly Analysis.pbix
 - README.md
-- Dashboard Screenshot.png
+- Dashboard Screenshots
 - Dataset
+- Problem Statement
 
 ---
 
 ## 📷 Dashboard Preview
 
 ![Dashboard](Uber_Quick_Analysis.png)
+![Dashboard](Uber_Overview.png)
 
 ---
 
